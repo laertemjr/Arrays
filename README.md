@@ -1,32 +1,32 @@
-# Vetores_pt-BR
- Suporte para o programador Delphi
+# Vetores_en
+Support for Delphi programmer
 <br/>
 <br/>
-### 📋 Sistema requerido
+### 📋 Required system
 
-*  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
-* Este programa foi feito em Delphi 12.1, então é sugerida esta versão ou outra mais recente.
-
-
-### :information_source: Informação para o programador Delphi
-* Vetores são muito úteis, mas memorizá-los quanto à sua declaração e implantação pode ser algo meio complicado, mas este programa permite observar como são declarados e utilizados de forma básica, a demonstrar visualmente com é a sua estrutura.
+*  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+* This program was made in Delphi 12.1, so I suggest this version or a newer one.
 
 
-### ⚙️ Executando os testes
-
-* Para testar o código deste projeto, basta fazer o download do arquivo executável, acessível a partir da pasta [Win32/Debug](https://github.com/laertemjr/Vetores_pt-BR/edit/main/Win32/Debug) deste repositório.
-
-
-### 🛠️ Construído com
-
-* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/br/products/delphi)
+### :information_source: Information for the Delphi programmer
+* Vectors are very useful, but memorizing their declaration and implementation can be a bit complicated, but this program allows you to see how they are declared and used in a basic way, visually demonstrating their structure.
 
 
-### 📌 Versão
+### ⚙️ Running the tests
+
+* To test the code of this project, simply download the executable file, accessible from the folder [Win32/Debug](https://github.com/laertemjr/Vetores_en/tree/main/Win32/Debug) from this repository.
+
+
+### 🛠️ Built with
+
+* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi)
+
+
+### 📌 Version
 
 * 0.1 - 25/01/2025 
 
 
-### 📄 Licença
+### 📄 License
 
-* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/Vetores_pt-BR/edit/main/LICENSE.md) para detalhes.
+* This project is licensed under *The Unlicense* - see the file [LICENSE.md](https://github.com/laertemjr/Vetores_en/blob/main/LICENSE.md) for details.
